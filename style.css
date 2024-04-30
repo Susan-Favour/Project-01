@@ -303,7 +303,15 @@ p {
 
 #trevor-image{
     border-radius: 0%;
+    padding-left: 35%;
 }
+#trevor-summary{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    
+}
+
 
 
 
@@ -348,10 +356,22 @@ border-radius: 10px;
 
 #nyj{
     font-size: larger;
-    background-color: rgb(0, 166, 157);
+    background-color: rgb(45, 106, 178);
+    
 }
 #nyj-main{
-    background-color: rgb(0, 166, 157);
+    background-color: rgb(45, 106, 178);
+
+}
+#text-trevor{
+    font-family: 'Nunito', sans-serif;
+    font-size: larger;
+    border: black 2px solid;
+    border-radius: 20px;
+    background-color: white;
+    margin: 2%;
+    text-align: center;
+
 
 }
 
